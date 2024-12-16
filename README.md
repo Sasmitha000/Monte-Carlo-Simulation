@@ -18,7 +18,7 @@ Ensure you have Python 3.8 or later installed on your system.
 #Installation
 
 Clone the Repository: Open your terminal or command prompt and run:
-git clone https://github.com/yourusername/marble-dropping-simulation.git
+git clone https://github.com/Sasmitha000/Monte-Carlo-Simulation.git
 
 Set Up a Virtual Environment (Optional): Create and activate a virtual environment to manage dependencies:
 python -m venv venv
