@@ -47,7 +47,7 @@ The estimation of Pi is based on the following Monte Carlo method:
 The formula used for estimating Pi is:
 
 ```
-Pi ≈ (Area of Circle / Area of Cuboid) * 4
+Pi ≈ cylinder_area_estimate / (cylinder_radius**2)
 ```
 
 This process is repeated for multiple runs and different sample sizes. The mean and mode of Pi values across the runs are calculated, and the results are stored in an Excel sheet.
