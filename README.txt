@@ -60,7 +60,5 @@ The results include:
 - The difference between the estimated Pi and the actual Pi value
 - The mean and mode Pi values for each sample size
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
